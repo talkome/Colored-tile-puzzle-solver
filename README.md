@@ -1,1 +1,1 @@
-# -Colored-NxM-tile-puzzle-solver‬
+# Colored-NxM-tile-puzzle-solver‬
